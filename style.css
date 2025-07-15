@@ -194,7 +194,7 @@ nav a:hover {
 .image {
     flex: 1;
     height: 400px;
-    background: url('uploads/kids.png') center/cover no-repeat;
+    background: url('images/kids.png') center/cover no-repeat;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
